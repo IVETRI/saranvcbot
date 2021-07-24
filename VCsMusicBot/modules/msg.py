@@ -22,7 +22,7 @@ f"""
 
 **For Channel Music Play**
 1) Make me admin of your channel.
-2) Send /userbotjoinchannel in linked group.
+2) Send /joinchannel in linked group.
 3) Now send commands in linked group.
 
 **Commands**
