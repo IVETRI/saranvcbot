@@ -85,7 +85,7 @@ f"""
 
 **=>> Commands for Sudo Users 👷**
 
- - /userbotleaveall - Remove assistant from all chats.
+ - /leaveall - Remove assistant from all chats.
  - /gcast `<reply to message>` - Globally brodcast replied message to all chats.
  - /pmpermit `<on/off>` - Enable/Disable PM Permit message.
 **Sudo Users can execute any command in any groups.**
