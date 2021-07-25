@@ -63,7 +63,7 @@ f"""
 - /cresume: Resume song play.
 - /cskip: Play next song.
 - /cend: Stop music play.
-- /userbotjoinchannel: Invite assistant to your chat.
+- /joinchannel: Invite assistant to your chat.
 
 **Channel is also can be used instead of c** ( /cplay = /channelplay )
 
@@ -81,7 +81,7 @@ f"""
 
 - /musicplayer `<on/off>`: Enable/Disable Music player
 - /reload: Updates admin info of your group. Try if bot isn't recognize admin
-- /userbotjoin: Invite @{ASSISTANT_NAME} Userbot to your chat
+- /join: Invite @{ASSISTANT_NAME} Userbot to your chat
 
 **=>> Commands for Sudo Users 👷**
 
